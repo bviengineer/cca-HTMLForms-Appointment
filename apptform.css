@@ -1,0 +1,45 @@
+header {
+    padding-left: 11rem;
+    color: crimson;
+    font-weight: bold;
+}
+
+body {
+    padding-top: 5rem;
+    padding-left: 18rem;
+    margin: 0 auto;
+    width: 80%;
+    background-color: aliceblue;
+}
+
+main {
+    background-color: darkcyan;
+    color: white;
+    font-size: 2rem;
+}
+
+#fname, #lname, #addr, 
+#phone, #email, #appt-date,
+#appt-time {
+    color: firebrick;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+button {
+    color: crimson;
+    font-weight: bold;
+}
+
+#submitRequest {
+    margin-left: 15rem;
+}
+
+footer {
+    padding-left: 23rem;
+}
+
+span {
+    color: crimson;
+    font-weight: bold;
+}
